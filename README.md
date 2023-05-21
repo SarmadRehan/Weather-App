@@ -1,4 +1,4 @@
-# weather_app_flutter_bloc
+# Weather App
 
 A Weather App in Flutter using BloC.
 
